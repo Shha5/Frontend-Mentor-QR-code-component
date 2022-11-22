@@ -28,7 +28,7 @@ I started with structuring the HTML document using mainly <div> tags. I used dif
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5
 - CSS
 - CSS Grid
 
